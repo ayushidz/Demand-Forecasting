@@ -1,8 +1,8 @@
 # Demand-Forecasting
-## Demand Forecasting with Random Forest
+### Demand Forecasting with Random Forest
 This project demonstrates how to build a demand forecasting model using Random Forest. The model is trained on historical sales data and can predict future demand based on user inputs.
 
-Features
+##### Features
 Data preprocessing: Handles missing values, outliers, and date conversion.
 Feature engineering: Adds lag features and moving averages.
 Model training: Uses Random Forest with hyperparameter tuning.
